@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 習武
+👋 Hi, I’m 習武
 
 <!---
 xiwuim/xiwuim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
